@@ -119,6 +119,6 @@ export const communityApps = [
     href: 'https://andreibalu.github.io/Ebooker/',
     tags: ['Audiobooks'],
     description:
-      'A native iPhone audiobook player with Audiobookshelf streaming. Supports username/password login and API keys, and sends listening position back to your server. Audiobookshelf books are streaming only, with no offline downloads.',
+      'A native iPhone audiobook player for your Audiobookshelf server, your own audio files and free LibriVox classics. Stream or download audiobooks for offline listening, browse series, collections, authors and narrators, and sync listening progress back to your server. Supports username/password login and API keys. Podcast libraries are not supported.',
   }
 ];
